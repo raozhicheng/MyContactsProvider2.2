@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/MID_PROJECT/!svn/ver/4204/trunk/client/MID1.1.0.0/ContactsProvider/src/com/android/providers/contacts
+END
+ContactMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/MID_PROJECT/!svn/ver/812/trunk/client/MID1.1.0.0/ContactsProvider/src/com/android/providers/contacts/ContactMatcher.java
+END
+ReorderingCursorWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/MID_PROJECT/!svn/ver/812/trunk/client/MID1.1.0.0/ContactsProvider/src/com/android/providers/contacts/ReorderingCursorWrapper.java
+END
+LegacyContactImporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/MID_PROJECT/!svn/ver/812/trunk/client/MID1.1.0.0/ContactsProvider/src/com/android/providers/contacts/LegacyContactImporter.java
+END
+ContactsDatabaseHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/MID_PROJECT/!svn/ver/4203/trunk/client/MID1.1.0.0/ContactsProvider/src/com/android/providers/contacts/ContactsDatabaseHelper.java
+END
+NameSplitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/MID_PROJECT/!svn/ver/812/trunk/client/MID1.1.0.0/ContactsProvider/src/com/android/providers/contacts/NameSplitter.java
+END
+SQLiteContentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/MID_PROJECT/!svn/ver/812/trunk/client/MID1.1.0.0/ContactsProvider/src/com/android/providers/contacts/SQLiteContentProvider.java
+END
+ContactsUpgradeReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/MID_PROJECT/!svn/ver/812/trunk/client/MID1.1.0.0/ContactsProvider/src/com/android/providers/contacts/ContactsUpgradeReceiver.java
+END
+ContactsProvider2.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/MID_PROJECT/!svn/ver/4203/trunk/client/MID1.1.0.0/ContactsProvider/src/com/android/providers/contacts/ContactsProvider2.java
+END
+ChineseSpelling.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/MID_PROJECT/!svn/ver/3299/trunk/client/MID1.1.0.0/ContactsProvider/src/com/android/providers/contacts/ChineseSpelling.java
+END
+PhotoPriorityResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/MID_PROJECT/!svn/ver/812/trunk/client/MID1.1.0.0/ContactsProvider/src/com/android/providers/contacts/PhotoPriorityResolver.java
+END
+EventLogTags.logtags
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/MID_PROJECT/!svn/ver/812/trunk/client/MID1.1.0.0/ContactsProvider/src/com/android/providers/contacts/EventLogTags.logtags
+END
+NameLookupBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/MID_PROJECT/!svn/ver/812/trunk/client/MID1.1.0.0/ContactsProvider/src/com/android/providers/contacts/NameLookupBuilder.java
+END
+CommonNicknameCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/MID_PROJECT/!svn/ver/812/trunk/client/MID1.1.0.0/ContactsProvider/src/com/android/providers/contacts/CommonNicknameCache.java
+END
+GlobalSearchSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/MID_PROJECT/!svn/ver/812/trunk/client/MID1.1.0.0/ContactsProvider/src/com/android/providers/contacts/GlobalSearchSupport.java
+END
+NameNormalizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/MID_PROJECT/!svn/ver/812/trunk/client/MID1.1.0.0/ContactsProvider/src/com/android/providers/contacts/NameNormalizer.java
+END
+Hex.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/MID_PROJECT/!svn/ver/812/trunk/client/MID1.1.0.0/ContactsProvider/src/com/android/providers/contacts/Hex.java
+END
+SocialProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/MID_PROJECT/!svn/ver/812/trunk/client/MID1.1.0.0/ContactsProvider/src/com/android/providers/contacts/SocialProvider.java
+END
+CallLogProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/MID_PROJECT/!svn/ver/1225/trunk/client/MID1.1.0.0/ContactsProvider/src/com/android/providers/contacts/CallLogProvider.java
+END
+PostalSplitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/MID_PROJECT/!svn/ver/812/trunk/client/MID1.1.0.0/ContactsProvider/src/com/android/providers/contacts/PostalSplitter.java
+END
+NameDistance.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/MID_PROJECT/!svn/ver/812/trunk/client/MID1.1.0.0/ContactsProvider/src/com/android/providers/contacts/NameDistance.java
+END
+LegacyApiSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/MID_PROJECT/!svn/ver/812/trunk/client/MID1.1.0.0/ContactsProvider/src/com/android/providers/contacts/LegacyApiSupport.java
+END
+ContactLocaleUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/MID_PROJECT/!svn/ver/4204/trunk/client/MID1.1.0.0/ContactsProvider/src/com/android/providers/contacts/ContactLocaleUtils.java
+END
+ContactLookupKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/MID_PROJECT/!svn/ver/812/trunk/client/MID1.1.0.0/ContactsProvider/src/com/android/providers/contacts/ContactLookupKey.java
+END
+ContactAggregator.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/MID_PROJECT/!svn/ver/812/trunk/client/MID1.1.0.0/ContactsProvider/src/com/android/providers/contacts/ContactAggregator.java
+END

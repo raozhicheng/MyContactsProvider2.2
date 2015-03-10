@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/MID_PROJECT/!svn/ver/812/trunk/client/MID1.1.0.0/ContactsProvider/tests/assets/test1
+END
+legacy_contacts.sql
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/MID_PROJECT/!svn/ver/812/trunk/client/MID1.1.0.0/ContactsProvider/tests/assets/test1/legacy_contacts.sql
+END
+expected_raw_contacts.txt
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/MID_PROJECT/!svn/ver/812/trunk/client/MID1.1.0.0/ContactsProvider/tests/assets/test1/expected_raw_contacts.txt
+END
+expected_data.txt
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/MID_PROJECT/!svn/ver/812/trunk/client/MID1.1.0.0/ContactsProvider/tests/assets/test1/expected_data.txt
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/MID_PROJECT/!svn/ver/812/trunk/client/MID1.1.0.0/ContactsProvider/tests/assets/test1/readme.txt
+END
+expected_calls.txt
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/MID_PROJECT/!svn/ver/812/trunk/client/MID1.1.0.0/ContactsProvider/tests/assets/test1/expected_calls.txt
+END
+expected_contacts.txt
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/MID_PROJECT/!svn/ver/812/trunk/client/MID1.1.0.0/ContactsProvider/tests/assets/test1/expected_contacts.txt
+END
+expected_groups.txt
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/MID_PROJECT/!svn/ver/812/trunk/client/MID1.1.0.0/ContactsProvider/tests/assets/test1/expected_groups.txt
+END

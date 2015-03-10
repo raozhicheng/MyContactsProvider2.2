@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/MID_PROJECT/!svn/ver/812/trunk/client/MID1.1.0.0/ContactsProvider/tests
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/MID_PROJECT/!svn/ver/812/trunk/client/MID1.1.0.0/ContactsProvider/tests/Android.mk
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/MID_PROJECT/!svn/ver/812/trunk/client/MID1.1.0.0/ContactsProvider/tests/AndroidManifest.xml
+END

@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/MID_PROJECT/!svn/ver/812/trunk/client/MID1.1.0.0/ContactsProvider/tests/src/com/android/providers/contacts
+END
+LegacyContactImporterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/MID_PROJECT/!svn/ver/812/trunk/client/MID1.1.0.0/ContactsProvider/tests/src/com/android/providers/contacts/LegacyContactImporterTest.java
+END
+BaseContactsProvider2Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/MID_PROJECT/!svn/ver/812/trunk/client/MID1.1.0.0/ContactsProvider/tests/src/com/android/providers/contacts/BaseContactsProvider2Test.java
+END
+ContactsActor.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/MID_PROJECT/!svn/ver/812/trunk/client/MID1.1.0.0/ContactsProvider/tests/src/com/android/providers/contacts/ContactsActor.java
+END
+NameSplitterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/MID_PROJECT/!svn/ver/812/trunk/client/MID1.1.0.0/ContactsProvider/tests/src/com/android/providers/contacts/NameSplitterTest.java
+END
+PostalSplitterForJapaneseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/MID_PROJECT/!svn/ver/812/trunk/client/MID1.1.0.0/ContactsProvider/tests/src/com/android/providers/contacts/PostalSplitterForJapaneseTest.java
+END
+RestrictionExceptionsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/MID_PROJECT/!svn/ver/812/trunk/client/MID1.1.0.0/ContactsProvider/tests/src/com/android/providers/contacts/RestrictionExceptionsTest.java
+END
+ContactsProvider2Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/MID_PROJECT/!svn/ver/812/trunk/client/MID1.1.0.0/ContactsProvider/tests/src/com/android/providers/contacts/ContactsProvider2Test.java
+END
+PhotoPriorityResolverTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/MID_PROJECT/!svn/ver/812/trunk/client/MID1.1.0.0/ContactsProvider/tests/src/com/android/providers/contacts/PhotoPriorityResolverTest.java
+END
+LegacyContactsProviderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/MID_PROJECT/!svn/ver/812/trunk/client/MID1.1.0.0/ContactsProvider/tests/src/com/android/providers/contacts/LegacyContactsProviderTest.java
+END
+GroupsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/MID_PROJECT/!svn/ver/812/trunk/client/MID1.1.0.0/ContactsProvider/tests/src/com/android/providers/contacts/GroupsTest.java
+END
+ContactAggregatorPerformanceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/MID_PROJECT/!svn/ver/812/trunk/client/MID1.1.0.0/ContactsProvider/tests/src/com/android/providers/contacts/ContactAggregatorPerformanceTest.java
+END
+NameLookupBuilderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/MID_PROJECT/!svn/ver/812/trunk/client/MID1.1.0.0/ContactsProvider/tests/src/com/android/providers/contacts/NameLookupBuilderTest.java
+END
+CallerInfoIntegrationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/MID_PROJECT/!svn/ver/812/trunk/client/MID1.1.0.0/ContactsProvider/tests/src/com/android/providers/contacts/CallerInfoIntegrationTest.java
+END
+GlobalSearchSupportTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/MID_PROJECT/!svn/ver/812/trunk/client/MID1.1.0.0/ContactsProvider/tests/src/com/android/providers/contacts/GlobalSearchSupportTest.java
+END
+NameNormalizerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/MID_PROJECT/!svn/ver/812/trunk/client/MID1.1.0.0/ContactsProvider/tests/src/com/android/providers/contacts/NameNormalizerTest.java
+END
+LegacyContactImporterPerformanceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/MID_PROJECT/!svn/ver/812/trunk/client/MID1.1.0.0/ContactsProvider/tests/src/com/android/providers/contacts/LegacyContactImporterPerformanceTest.java
+END
+SynchronousContactsProvider2.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/MID_PROJECT/!svn/ver/812/trunk/client/MID1.1.0.0/ContactsProvider/tests/src/com/android/providers/contacts/SynchronousContactsProvider2.java
+END
+MockSyncAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/MID_PROJECT/!svn/ver/812/trunk/client/MID1.1.0.0/ContactsProvider/tests/src/com/android/providers/contacts/MockSyncAdapter.java
+END
+CallLogProviderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/MID_PROJECT/!svn/ver/812/trunk/client/MID1.1.0.0/ContactsProvider/tests/src/com/android/providers/contacts/CallLogProviderTest.java
+END
+PostalSplitterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/MID_PROJECT/!svn/ver/812/trunk/client/MID1.1.0.0/ContactsProvider/tests/src/com/android/providers/contacts/PostalSplitterTest.java
+END
+NameDistanceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/MID_PROJECT/!svn/ver/812/trunk/client/MID1.1.0.0/ContactsProvider/tests/src/com/android/providers/contacts/NameDistanceTest.java
+END
+ContactLocaleUtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/MID_PROJECT/!svn/ver/812/trunk/client/MID1.1.0.0/ContactsProvider/tests/src/com/android/providers/contacts/ContactLocaleUtilsTest.java
+END
+ContactLookupKeyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/MID_PROJECT/!svn/ver/812/trunk/client/MID1.1.0.0/ContactsProvider/tests/src/com/android/providers/contacts/ContactLookupKeyTest.java
+END
+ContactAggregatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/MID_PROJECT/!svn/ver/812/trunk/client/MID1.1.0.0/ContactsProvider/tests/src/com/android/providers/contacts/ContactAggregatorTest.java
+END

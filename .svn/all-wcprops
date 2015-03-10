@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/MID_PROJECT/!svn/ver/4363/trunk/client/MID1.1.0.0/ContactsProvider
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/MID_PROJECT/!svn/ver/812/trunk/client/MID1.1.0.0/ContactsProvider/default.properties
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/MID_PROJECT/!svn/ver/4363/trunk/client/MID1.1.0.0/ContactsProvider/.classpath
+END
+NOTICE
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/MID_PROJECT/!svn/ver/812/trunk/client/MID1.1.0.0/ContactsProvider/NOTICE
+END
+CleanSpec.mk
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/MID_PROJECT/!svn/ver/812/trunk/client/MID1.1.0.0/ContactsProvider/CleanSpec.mk
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/MID_PROJECT/!svn/ver/812/trunk/client/MID1.1.0.0/ContactsProvider/.project
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/MID_PROJECT/!svn/ver/812/trunk/client/MID1.1.0.0/ContactsProvider/Android.mk
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/MID_PROJECT/!svn/ver/812/trunk/client/MID1.1.0.0/ContactsProvider/AndroidManifest.xml
+END
+MODULE_LICENSE_APACHE2
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/MID_PROJECT/!svn/ver/812/trunk/client/MID1.1.0.0/ContactsProvider/MODULE_LICENSE_APACHE2
+END
